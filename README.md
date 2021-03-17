@@ -4,6 +4,11 @@ This Project is for **Search in Video Games**, I used **[React js](https://react
 
 In this project, you can search in video games through **[ConnectNow API](https://public.connectnow.org.uk/applicant-test.)** and alse filter fetched data.
 
+![Screenshot (98)](https://user-images.githubusercontent.com/54850998/111466777-ef70d680-8738-11eb-9f0f-39a2b1b7a648.png)
+![Screenshot (95)](https://user-images.githubusercontent.com/54850998/111466796-f697e480-8738-11eb-8e18-d58ed64e9e39.png)
+![Screenshot (96)](https://user-images.githubusercontent.com/54850998/111466813-fbf52f00-8738-11eb-9cb6-3592bed5334a.png)
+![Screenshot (97)](https://user-images.githubusercontent.com/54850998/111466832-01eb1000-8739-11eb-84c7-e5c5f8f8242c.png)
+
 # How to use
 
 1. Clone the repository
