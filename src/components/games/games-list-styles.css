@@ -1,0 +1,14 @@
+.games-list {
+  overflow-y: scroll;
+  grid-area: games-list;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.games-list::-webkit-scrollbar {
+  display: none;
+}
+
+.loading {
+  color: #c1d1e8;
+}

@@ -1,0 +1,50 @@
+.nav {
+  width: 100%;
+  color: #fff;
+  display: flex;
+  margin: 4rem 0 2rem 0;
+}
+
+.nav-item {
+  display: flex;
+  padding-left: 4rem;
+  align-items: flex-end;
+}
+
+.nav-title {
+  margin: 0;
+  z-index: 1;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1.5rem;
+  padding-left: 2rem;
+}
+
+.nav-title:hover {
+  color: #999;
+}
+
+.nav-casper {
+  color: #182c47;
+  font-weight: bold;
+  font-size: 3.5rem;
+  position: absolute;
+}
+
+@media all and (max-width: 768px) {
+  .nav {
+    flex-direction: column;
+  }
+  .nav-item {
+    padding-left: 1rem;
+  }
+  .nav-casper {
+    font-size: 2.5rem;
+  }
+  .nav-title {
+    font-size: 1.5rem;
+  }
+  .contact {
+    margin-top: 1.5rem;
+  }
+}
